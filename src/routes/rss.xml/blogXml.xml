@@ -1,0 +1,18 @@
+<rss
+	version="2.0"
+>
+	<channel>
+		<title>myTitle</title>
+		<description>myDescription</description>
+		<language>en</language>
+		<pubDate>Mon, 29 Jan 2024 16:00:00 GMT</pubDate>
+		<link>https://mywebsite.com/rss.xml</link>
+		<item>
+			<guid>https://mywebsite.com/blog1</guid>
+			<title>Blog 1, my blog name</title>
+			<description>myEpisodeDescription</description>
+			<pubDate>2024-02-01</pubDate>
+			<link>https://mywebsite.com/blog1</link>
+		</item>
+	</channel>
+</rss>
